@@ -1,2 +1,1 @@
-# i
-Serve static files
+# Static files repo
